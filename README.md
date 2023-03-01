@@ -1,6 +1,18 @@
-###Lithium
+
 ## Project - Products Management
 
+- This is the  backend for a product management(shopping cart) app.
+- There are APIs that allow access to CRUD operations on the  cart and the products collection.
+
+-MongoDB is been used as the database in this particular project, with different collections such as the carts, products , users
+-
+- 
+
+
+
+
+
+### Problem Statement
 ### Key points
 - In this project we will work feature wise. That means we pick one object like user, book, blog, etc at a time. We work through it's feature. The steps would be:
   1) We create it's model.
