@@ -3,8 +3,7 @@
 
 - This is the  backend for a product management(shopping cart) app.
 - There are APIs that allow access to CRUD operations on the  cart and the products collection.
-
--MongoDB is been used as the database in this particular project, with different collections such as the carts, products , users
+- MongoDB is been used as the database in this particular project, with different collections such as the carts, products , users
 -
 - 
 
